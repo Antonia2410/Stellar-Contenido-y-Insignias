@@ -31,5 +31,5 @@ Diseñar un sistema de insignias digitales y contenido educativo para la comunid
 - Entrega del repositorio completo: 1 de septiembre
 
 ## 🧰 Recursos y Supuestos
-- Herramientas: GitHub Education, Canva, Google Docs 
+- Herramientas:GitHub Education, Canva, Google Docs 
 - Supuestos: Todos los miembros tienen acceso a internet, disponibilidad de 3 horas semanales, y conocimientos básicos de Markdown y diseño gráfico.
