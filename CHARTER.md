@@ -17,18 +17,18 @@ Diseñar un sistema de insignias digitales y contenido educativo para la comunid
 - Desarrollo de funcionalidades automatizadas
 
 ## 👥 Roles y Responsabilidades
-- **Coordinador/a:** Supervisión general del proyecto  
-- **Diseñador/a:** Creación visual de insignias  
-- **Redactor/a:** Elaboración de contenido educativo  
-- **Editor/a:** Revisión y corrección de textos  
-- **Gestor/a de Tareas:** Organización del tablero Kanban  
+- **Coordinador (Bryan Santiago):** Supervisión general del proyecto  
+- **Diseñador (Rodolfo Nicolas):** Creación visual de insignias  
+- **Redactora (Antonia):** Elaboración de contenido educativo  
+- **Editor (Juan Nicolas):** Revisión y corrección de textos  
+- **Gestor de Tareas (Juan Nicolas):** Organización del tablero Kanban  
 
 ## 📅 Hitos y Plazos
-- Lluvia de ideas inicial: 27 de agosto  
-- Primer borrador del Acta: 28 de agosto  
-- Primer artículo publicado: 2 de septiembre  
-- Diseño final de insignias: 5 de septiembre  
-- Entrega del repositorio completo: 10 de septiembre
+- Lluvia de ideas inicial: 25 de agosto  
+- Primer borrador del Acta: 27 de agosto  
+- Primer artículo publicado: 29 de agosto  
+- Diseño final de insignias: 29 de agosto 
+- Entrega del repositorio completo: 1 de septiembre
 
 ## 🧰 Recursos y Supuestos
 - Herramientas: GitHub Education, Canva, Google Docs 
