@@ -19,9 +19,9 @@ Diseñar un sistema de insignias digitales y contenido educativo para la comunid
 ## 👥 Roles y Responsabilidades
 - **Coordinador (Bryan Santiago):** Supervisión general del proyecto  
 - **Diseñador (Rodolfo Nicolas):** Creación visual de insignias  
-- **Redactora (Antonia):** Elaboración de contenido educativo  
-- **Editor (Juan Nicolas):** Revisión y corrección de textos  
-- **Gestor de Tareas (Juan Nicolas):** Organización del tablero Kanban  
+- **Redactora (Juan Nicolas):** Elaboración de contenido educativo  
+- **Editor (Bryan Santiago):** Revisión y corrección de textos  
+- **Gestor de Tareas (Antonia):** Organización del tablero Kanban  
 
 ## 📅 Hitos y Plazos
 - Lluvia de ideas inicial: 25 de agosto  
