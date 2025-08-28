@@ -1,12 +1,12 @@
 # Acta de Constitución del Proyecto
 
-## 🎯 Título del Proyecto
+##  Título del Proyecto
 Sistema de Insignias y Contenido Educativo para Stellar
 
-## 📘 Objetivos
+##  Objetivos
 Diseñar un sistema de insignias digitales y contenido educativo para la comunidad Stellar, con el fin de incentivar la participación, el aprendizaje autónomo y el reconocimiento de logros.
 
-## 📌 Alcance
+##  Alcance
 **Incluye:**
 - Creación de artículos, tutoriales y guías
 - Diseño de insignias con criterios definidos
@@ -23,7 +23,7 @@ Diseñar un sistema de insignias digitales y contenido educativo para la comunid
 - **Editor (Bryan Santiago):** Revisión y corrección de textos  
 - **Gestor de Tareas (Antonia):** Organización del tablero Kanban  
 
-## 📅 Hitos y Plazos
+##  Hitos y Plazos
 - Lluvia de ideas inicial: 25 de agosto  
 - Primer borrador del Acta: 27 de agosto  
 - Primer artículo publicado: 29 de agosto  
